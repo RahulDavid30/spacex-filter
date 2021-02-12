@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/spacex-filter/static/css/main.0ab21525.chunk.css",
+    "main.js": "/spacex-filter/static/js/main.eef8aa52.chunk.js",
+    "main.js.map": "/spacex-filter/static/js/main.eef8aa52.chunk.js.map",
+    "runtime-main.js": "/spacex-filter/static/js/runtime-main.bcf565e0.js",
+    "runtime-main.js.map": "/spacex-filter/static/js/runtime-main.bcf565e0.js.map",
+    "static/css/2.150d169a.chunk.css": "/spacex-filter/static/css/2.150d169a.chunk.css",
+    "static/js/2.31b549f3.chunk.js": "/spacex-filter/static/js/2.31b549f3.chunk.js",
+    "static/js/2.31b549f3.chunk.js.map": "/spacex-filter/static/js/2.31b549f3.chunk.js.map",
+    "static/js/3.a05d05f7.chunk.js": "/spacex-filter/static/js/3.a05d05f7.chunk.js",
+    "static/js/3.a05d05f7.chunk.js.map": "/spacex-filter/static/js/3.a05d05f7.chunk.js.map",
+    "index.html": "/spacex-filter/index.html",
+    "service-worker.js": "/spacex-filter/service-worker.js",
+    "service-worker.js.map": "/spacex-filter/service-worker.js.map",
+    "static/css/2.150d169a.chunk.css.map": "/spacex-filter/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0ab21525.chunk.css.map": "/spacex-filter/static/css/main.0ab21525.chunk.css.map",
+    "static/js/2.31b549f3.chunk.js.LICENSE.txt": "/spacex-filter/static/js/2.31b549f3.chunk.js.LICENSE.txt",
+    "static/media/loadRocket.03d83b7e.gif": "/spacex-filter/static/media/loadRocket.03d83b7e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf565e0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.31b549f3.chunk.js",
+    "static/css/main.0ab21525.chunk.css",
+    "static/js/main.eef8aa52.chunk.js"
+  ]
+}
